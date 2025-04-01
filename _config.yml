@@ -2,3 +2,4 @@ name: My Site
 theme: minima
 plugins: 
   - jekyll-sitemap
+google_analytics: G-WXXXXXXXXX
